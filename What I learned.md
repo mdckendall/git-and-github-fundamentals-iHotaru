@@ -1,1 +1,0 @@
-I learned about all the fundamentals of github such as repositories, cloning, branches, forks and pull requests. I also learned about the history of git and github aswell as the importance of github in modern software development.
